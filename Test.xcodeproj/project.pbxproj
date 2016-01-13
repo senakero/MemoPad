@@ -14,6 +14,7 @@
 		B96B97EA1BE0DAC100B65391 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B96B97E81BE0DAC100B65391 /* LaunchScreen.storyboard */; };
 		B96B97F51BE0DAC100B65391 /* TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B96B97F41BE0DAC100B65391 /* TestTests.swift */; };
 		B96B98001BE0DAC100B65391 /* TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B96B97FF1BE0DAC100B65391 /* TestUITests.swift */; };
+		B96B98121BE0DE6000B65391 /* Saxophone.png in Resources */ = {isa = PBXBuildFile; fileRef = B96B98111BE0DE6000B65391 /* Saxophone.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B96B97FB1BE0DAC100B65391 /* TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B96B97FF1BE0DAC100B65391 /* TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUITests.swift; sourceTree = "<group>"; };
 		B96B98011BE0DAC100B65391 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B96B98111BE0DE6000B65391 /* Saxophone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Saxophone.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		B96B97DE1BE0DAC100B65391 /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				B96B98111BE0DE6000B65391 /* Saxophone.png */,
 				B96B97DF1BE0DAC100B65391 /* AppDelegate.swift */,
 				B96B97E11BE0DAC100B65391 /* ViewController.swift */,
 				B96B97E31BE0DAC100B65391 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B96B97EA1BE0DAC100B65391 /* LaunchScreen.storyboard in Resources */,
+				B96B98121BE0DE6000B65391 /* Saxophone.png in Resources */,
 				B96B97E71BE0DAC100B65391 /* Assets.xcassets in Resources */,
 				B96B97E51BE0DAC100B65391 /* Main.storyboard in Resources */,
 			);
